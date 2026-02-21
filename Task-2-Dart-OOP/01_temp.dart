@@ -1,0 +1,8 @@
+void main() {
+  double celsius = 37;
+
+  double fahrenheit = (celsius * 9 / 5) + 32;
+
+  print("Celsius: $celsius");
+  print("Fahrenheit: $fahrenheit");
+}
